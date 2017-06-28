@@ -1,9 +1,8 @@
 {
-	"78.46.87.243:25192": {
-		"Contact": "XMPP: a@bbhub.ga",
-		"login": "public",
-		"password": "public",
-		"peerName": "bbhub.ga",
-		"publicKey": "vb5wrlmnd3dq0z9nblbq2txftz71hufffl310yz503hu077lmtj0.k"
+	"92.241.12.189:22569": {
+		"Contact": "vvk@start-com.ru",
+		"password": "6mDHySCSJYVgyJqphpgnokqKrCq045mF",
+		"peerName": "h.start-com.ru",
+		"publicKey": "9qz459vnkb1v36ypq84m29g2q7dn8gndg9bh0w1499urnkx9nmt0.k"
 	}
 }
